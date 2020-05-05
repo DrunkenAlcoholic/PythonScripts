@@ -7,10 +7,6 @@
 ![alt text](./Screenshots/SceenShot-Budgie-Sensibo-Monitor.png) ![alt text](./Screenshots/SceenShot-Budgie-Sensibo-Monitor-on.png)
 ![alt text](./Screenshots/ScreenShot-Budgie-Sensibo-Monitor-Settings.png)
 
-   ### Clone or download the repository
-   ```bash
-   $ git clone https://github.com/DrunkenAlcoholic/budgie-sensibo-monitor.git
-   ```
 
    ### Installl
   ```bash
