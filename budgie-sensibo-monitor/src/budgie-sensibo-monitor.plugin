@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=budgie-sensibo-monitor
+Name=Budgie Sensibo Monitor
+Description=Budgie Sensibo Monitor
+Authors=Drunken Alcoholic
+Copyright=Copyright © 2019 Drunken Alcoholic
+Website=https://solus-project.com
+Icon=budgie-sensibo-monitor-icon
