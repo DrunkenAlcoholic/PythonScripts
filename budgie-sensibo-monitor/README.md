@@ -1,4 +1,4 @@
-# budgie-sensibo-monitor - WORK IN PROGRESS
+# budgie-sensibo-monitor - WIP
 
    ### Information
    My first python and Gtk programming project, this should be written a lot better, I am currently stuck, so anyone willing to help clean up the code and implement a better way for global settings would be greatly appreciate.
