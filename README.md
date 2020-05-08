@@ -5,8 +5,8 @@ Random created python scripts / programs
 > An implementation of Caesar/ROTxx/Vigenere ciphers
 
 
-##### pfetch-modded: 
-> Modified pfetch with a couple of extra functions and ascii for the Solus OS
+##### Corona-Stats: 
+> A simplified script that gives you current stats of the corona virus
 
 
 ##### budgie-sensibo-monitor: 
