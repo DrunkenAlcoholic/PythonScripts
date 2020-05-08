@@ -9,5 +9,5 @@ Random created python scripts / programs
 > Modified pfetch with a couple of extra function and ascii for the Solus OS
 
 
-##### Budgie-sensibo-monitor: 
+##### budgie-sensibo-monitor: 
 > A budgie applet that monitors the remote sensibo device, with remote off/on switch
