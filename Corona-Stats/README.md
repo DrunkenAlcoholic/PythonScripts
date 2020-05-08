@@ -14,4 +14,4 @@ $ CoronaStats Australia
 $ CoronaStats US UK AU IT
 ```
 # Output Example
-![alt text](https://github.com/DrunkenAlcoholic/PythonScripts/Corona-Stats/blob/master/Screenshot.png)
+![alt text](https://github.com/DrunkenAlcoholic/PythonScripts/blob/master/Corona-Stats/Screenshot.png)
