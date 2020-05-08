@@ -6,7 +6,7 @@ Random created python scripts / programs
 
 
 ##### pfetch-modded: 
-> Modified pfetch with a couple of extra function and ascii for the Solus OS
+> Modified pfetch with a couple of extra functions and ascii for the Solus OS
 
 
 ##### budgie-sensibo-monitor: 
